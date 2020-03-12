@@ -1,4 +1,4 @@
-# DATA PIPELINE FOR Song Plays Analysis DataSet
+# Data Pipeline for songs plays analysis
 
 ## Summary
 This project involves the creation of a pipeline using airflow to bring data from a data lake allocated in S3 to a data werehouse implemented in redshift, the motivations of this data pipeline was to be able to do backfills, ensure data quality, test the data set after the etl is executed and find catch any discrepancies in the datasets. 
